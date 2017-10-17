@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'open-uri'
 
 username= 'moha91330@gmail.com'
-password = 'yerres91330'
+password = '******'
 
 gmail = Gmail.connect(username, password)
 
